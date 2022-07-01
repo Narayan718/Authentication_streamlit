@@ -15,7 +15,7 @@ def pedict_note(variance, skewness, curtosis, entropy):
 def main():
     st.title("Bank Note Authentication")
     html_temp = """
-    <div style = "background-color:tomato;padding:10px">
+    <div style = "background-color:blue;padding:10px">
     <h2 style = "color:white;text-align:center;">Streamlit Bank Authenticator ML App </h2>
     </div>
     """
